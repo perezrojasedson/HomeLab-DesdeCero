@@ -13,7 +13,7 @@ Darle una segunda vida a hardware antiguo para crear un entorno de servidor efic
 
 A continuación, puedes acceder a los comandos y archivos específicos de cada episodio:
 
-### [Episodio 1: Instalación y Preparación Base](./Episodio_1/)
+### [Episodio 1: Instalación y Preparación Base](https://github.com/EdsonPerez7/HomeLab-DesdeCero/tree/main/Episodio_1)
 * Descarga de la imagen ISO.
 * Flasheo con Rufus.
 * Instalación limpia de Ubuntu Server.
