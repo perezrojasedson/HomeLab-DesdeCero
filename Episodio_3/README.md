@@ -91,7 +91,7 @@ Con nuestra IP estática configurada, el servidor ya no cambiará de dirección.
 
 **Ejecutar el script de instalación oficial:**
 ```bash
-curl -fsSL [https://get.casaos.io](https://get.casaos.io) | sudo bash
+curl -fsSL https://get.casaos.io | sudo bash
 ```
 La instalación tomará unos minutos dependiendo de la velocidad de tu conexión a internet y el hardware.
 
