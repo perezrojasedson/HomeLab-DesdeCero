@@ -18,7 +18,7 @@ A continuación, puedes acceder a los comandos y archivos específicos de cada e
 * Flasheo con Rufus.
 * Instalación limpia de Ubuntu Server.
 
-### [Episodio 2: Domando el Hardware y Script de Voz](./Episodio_2/)
+### [Episodio 2: Domando el Hardware y Script de Voz](https://github.com/EdsonPerez7/HomeLab-DesdeCero/tree/main/Episodio_2)
 * Configuración de GRUB (Apagado de pantalla y desactivación de teclado).
 * Configuración de `logind` para evitar la suspensión al cerrar la tapa.
 * Script en Bash (`bateria_alerta.sh`) para monitoreo de batería y alertas por voz usando la API de Google (gTTS).
