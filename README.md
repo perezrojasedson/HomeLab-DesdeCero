@@ -13,7 +13,7 @@ Darle una segunda vida a hardware antiguo para crear un entorno de servidor efic
 
 A continuación, puedes acceder a los comandos y archivos específicos de cada episodio:
 
-### [Episodio 1: Instalación y Preparación Base]
+### [Episodio 1: Instalación y Preparación Base](./Episodio_1/)
 * Descarga de la imagen ISO.
 * Flasheo con Rufus.
 * Instalación limpia de Ubuntu Server.
