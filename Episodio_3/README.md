@@ -58,8 +58,8 @@ network:
       dhcp4: false
       optional: true     # Permite que el sistema inicie rápido cuando no este cableado
       access-points:
-        "WiFi - Fracy":  # <-- Mantén las comillas
-          password: "TU_CONTRASEÑA_SECRETA" # <-- Mantén las comillas
+        "WiFi - EDSON":  # <-- Mantén las comillas
+          password: "tucontraseña" # <-- Mantén las comillas
       addresses:
         - 192.168.0.114/24  # <-- IP estática deseada para el Wi-Fi
       routes:
