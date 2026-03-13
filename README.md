@@ -24,10 +24,9 @@ A continuación, puedes acceder a los comandos y archivos específicos de cada e
 * Script en Bash (`bateria_alerta.sh`) para monitoreo de batería y alertas por voz usando la API de Google (gTTS).
 * Automatización con Cronjobs.
 
-### [Episodio 3: Servicios y Redes (Próximamente) ⏳]
+### [Episodio 3: Servicios y Redes](https://github.com/EdsonPerez7/HomeLab-DesdeCero/tree/main/Episodio_3)
 * Configuración de IP Estática (Netplan).
 * Instalación de CasaOS.
-* Despliegue de Jellyfin (Media Server).
 
 ---
 
